@@ -103,8 +103,8 @@ My best model is `CNN enhanced with inception blocks and residual blocks`, train
 **Accuracy = 75.60%**  
 It may not seem high, but benchmarked against other models published by people worldwide, I actually ranked **4th**!!  
 
-![Image Description](images/ranking.png)
+![Image Description](images/ranking.png)  
+![Image Description](images/benchmarking.png)  
 Data obtained from: 
 **Leaderboard at PapersWithCode**  
 https://paperswithcode.com/sota/speech-emotion-recognition-on-crema-d
-
