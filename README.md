@@ -6,7 +6,8 @@
 2. Navigate to the repository: `cd emo-recog-app`
 3. Make the script executable: `chmod +x run.sh`
 4. Run the app: `./run.sh`
-5. Open a web browser and navigate to the URL provided in the terminal output.
+5. In the terminal output, Gradio will provide a public URL for you for the demo.
+6. Open a web browser and navigate to the gradio.live URL.
 
 ## Testing with Sample Audio Files
 
