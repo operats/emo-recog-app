@@ -14,7 +14,7 @@ A customer service application can incorporate emotion detection, assisting fron
 
 **Data Preprocessing**  
 * **Feature extraction**: Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)  
-* **Data Augmentation**: Apply techniques like time-stretching, pitch-shifting, and adding noise to increase dataset diversity.  
+* **Data augmentation**: Apply techniques like time-stretching, pitch-shifting, and adding noise to increase dataset diversity.  
 
 **Model selection**
 * Deep-learning models capable of handling Spatial and Temporal features
