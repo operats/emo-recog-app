@@ -17,7 +17,7 @@ I've provided a directory `data/unseen_data` with some sample audio files (WAV f
 3. Click the "Submit" button to upload the file and get the predicted emotion.
 
 ## Folder structure
-
+```
 emotion-recognition-app/
 ├── app/
 │   ├── __init__.py
@@ -35,6 +35,6 @@ emotion-recognition-app/
 ├── README.md
 ├── requirements.txt
 └── run.sh
-
+```
 ## Model details
 
