@@ -1,7 +1,7 @@
 # Emotion Recognition App
-A **deep-learning project** to identify emotions from vocal input (without using transcripts).  
+A **deep-learning project** to classify emotions from vocal input (without using transcripts).  
 
-**DL problem**: A multi-class classification task to detect emotions through speech pattern.  
+**DL problem**: A multi-class classification task to identify/classify emotions through speech pattern.  
 Input to the model is raw audio data (speech). The model will learn to extract meaningful features from the audio data, such as tone, pitch, and intensity, and map them to specific emotions.  
 
 **Practical use**  
